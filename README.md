@@ -10,7 +10,7 @@ This README provides an overview of out nodule segmentation dataset.
 - Dataset Size: 1059 samples with 6000x4000 resolution
 - Licencse: MIT License
 - Provider: Department of Applied Biosciences, Kyungpook National University, Daegu 41566, Republic of Korea
-- Dataset URL: https://docs.google.com/document/d/1kzpNrg8moTJowaXEh2YMQvEF1PyR8Zqh39jWP4uwCnQ/edit
+- Dataset URL: https://drive.google.com/file/d/1Fhp-pma7iwXJsomNiYg-R05OtEsqjX3Z/view?usp=drive_link
   
 This dataset has been collected and prepared for nodule segmentation tasks.
 
