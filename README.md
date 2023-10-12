@@ -22,23 +22,27 @@ The dataset consists of the following key components.
 
 Example dataset structure:
 
-* [Nodule_Segmentation_Dataset](./Nodule_Segmentation_Dataset)
-* [images](./images)
-  * [2018](./images/2018)
-    * [0.jpg](./images/2018/0.jpg)
-    * [1.jpg](./images/2018/1.jpg)
-    * [...](./images/2018/...)
-     
-    - 2019/
-      - 0.jpg
-      - 1.jpg
-      - ...
-  - masks/
-    - 2018/
-      - 0.jpg
-      - 1.jpg
-      - ...
-    - 2019/
-      - 0.jpg
-      - 1.jpg
-      - ...
+<pre>
+```
+.
+├── Nodule_Segmentation_Dataset/
+│   ├── images/
+│   │   ├── 2018/
+│   │   │   ├──  0.jpg
+│   │   │   ├──  1.jpg
+│   │   │   └──  ... 
+│   │   ├── 2019/
+│   │   │   ├──  0.jpg
+│   │   │   ├──  1.jpg
+│   │   │   └──  ...
+│   ├── masks/
+│   │   ├── 2018/
+│   │   │   ├──  0.jpg
+│   │   │   ├──  1.jpg
+│   │   │   └──  ... 
+│   │   ├── 2019/
+│   │   │   ├──  0.jpg
+│   │   │   ├──  1.jpg
+│   │   │   └──  ...
+```
+</pre>
