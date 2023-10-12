@@ -1,6 +1,6 @@
 # Nodule-Segmentation-Dataset
 
-This README provides an overview of out nodule segmentation dataset.
+This README provides an overview of our nodule segmentation dataset.
 
 ## Dataset Description
 
